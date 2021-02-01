@@ -1,4 +1,4 @@
-# laravel5.7-vue-Element-ui 
+# laravel5.7-vue-Element-ui + vue全家桶
 - **npm install**
 - **npm i element-ui -S**
 - **npm install vux --save**
